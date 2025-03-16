@@ -5,7 +5,7 @@ This is a restful API which removes background of images using Trace-B7 segmenta
 
 * First of all clone the project:
 ```console
-username@hostname:~$ git clone https://github.com/EngRobot33/Background-Removal-API
+username@hostname:~$ git clone https://github.com/HaamedKhosravii/Background-Removal-API
 ```
 * Then, we need a virtual environment you can create like this:
 ```console
